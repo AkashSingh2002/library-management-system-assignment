@@ -1,6 +1,6 @@
 ## Library management system
 
-Welcome to the Library Management System GitHub repository! This web application is designed to simplify the management of books, members, and transactions within a local library. With a user-friendly interface and essential features, this tool aims to enhance the overall efficiency and organization of library operations.
+Welcome to the Library Management System. This web application is designed to simplify the management of books, members, and transactions within a local library. With a user-friendly interface and essential features, this tool aims to enhance the overall efficiency and organization of library operations.
 
 ## Required Tools
 
@@ -14,7 +14,7 @@ Welcome to the Library Management System GitHub repository! This web application
 
 ## Getting Started
 
-1. Clone this repository to your local machine using: `git clone https://github.com/AJAY2-R/Library-management-system.git`
+1. Clone this repository to your local machine using: `git clone https://github.com/AkashSingh2002/library-management-system-assignment.git`
 
 2. Install the required packages using `pip install -r requirements.txt`.
 
@@ -33,14 +33,3 @@ Here are a few screenshots showcasing the interface and functionalities of the L
 ![Return Book](/screenshots/returnbook.jpeg)
 ![Transactions](/screenshots/Transactions.jpeg)
 
-## Contributions
-
-Contributions to this project are welcome! Feel free to fork the repository, make your improvements, and submit a pull request. If you encounter any issues or have ideas for enhancements, please open an issue in the repository.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-With the Library Management System, we aim to make library operations smoother and more organized. We hope this tool proves valuable to libraries and their patrons. If you have any questions or feedback, please don't hesitate to reach out!
